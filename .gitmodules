@@ -1,0 +1,3 @@
+[submodule "src/submodules"]
+	path = src/submodules
+	url = https://github.com/n4music/n4music-submodule.git
